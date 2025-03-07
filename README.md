@@ -1,2 +1,1 @@
-# example
-this is sample repo for provoke traings.............my edited file
+this is reverted file
